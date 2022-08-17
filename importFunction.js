@@ -1,2 +1,2 @@
-const val = require("./exportFunction");
-msg();
+const msg = require("./exportFunction");
+console.log(msg);
