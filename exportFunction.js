@@ -1,4 +1,4 @@
 function msg() {
-  return console.log("This is a Function");
+  return "This is a Function";
 }
 module.exports = msg;
